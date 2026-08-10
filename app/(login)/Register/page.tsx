@@ -13,9 +13,11 @@ function page() {
 
 
             {/* Floating tab start*/}
-            <div className="
+            <div className="absolute">
+              <div className="
+                              sticky
                               absolute
-                              right-130
+                              right-50
                               top-24
                               w-[350px]
                               h-[1000px]
@@ -169,8 +171,10 @@ function page() {
 
 
             </div> {/* Floating tab end */}
+
+            </div>
     </div>
   )
 }
 
-export default page
+
