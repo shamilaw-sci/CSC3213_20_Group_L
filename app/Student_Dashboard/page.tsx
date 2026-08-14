@@ -16,12 +16,12 @@ function page() {
                       className="rounded-full"  /> 
         </div>
         <div className="ml-3 -mt-15 "><h1 className=" text-4xl font-bold text-[#B91C1C] [text-shadow:0_2px_4px_rgba(0,0,0,0.2)]">Dashboard</h1></div>
-        <div className="ml-200 -mt-9 "><h3 className="text-2xl text-[#B91C1C]">Hi, Student</h3></div>
+        <div className="ml-200 -mt-9 "><h3 className="text-2xl text-[#B91C1C] ">Hi, Student</h3></div>
       </nav>
 
       {/*large two buttons*/}
       
-       <div className="mt-15 ml-10 flex items-start gap-6">
+       <div className="mt-18 ml-10 flex items-start gap-6">
         <div className=" h-[80px] w-[400px] inline-block  px-8 py-4 rounded-2xl border border-[#E5E7EB]  shadow-[0_8px_25px_rgba(220,38,38,0.25)]  hover:shadow-[0_12px_30px_rgba(220,38,38,0.35)]  hover:-translate-y-1  transition-all duration-300  cursor-pointer rounded-xl  bg-[#B91C1C]  px-6 py-3 text-base font-medium text-white shadow-[0_6px_18px_rgba(185,28,28,0.25)]  transition-all duration-300  hover:bg-[#991B1B] hover:-translate-y-0.5">
             <h2 className="text-xl font-bold">Apply Medical Certificate</h2>
         </div>
@@ -39,7 +39,7 @@ function page() {
        </div>
 
        <div className=" ml-10 mt-11 h-[50px] w-[300px] rounded-xl bg-[#3B82C4] px-7 py-3 text-base font-semibold text-white shadow-[0_6px_0_#2563A6,0_10px_20px_rgba(59,130,196,0.25)] transition-all duration-200 hover:-translate-y-1 hover:shadow-[0_8px_0_#2563A6,0_15px_25px_rgba(59,130,196,0.3)] active:translate-y-1 active:shadow-[0_3px_0_#2563A6,0_5px_10px_rgba(59,130,196,0.2)]">
-        <h3 className="text-white">Applied Medical certificates</h3>
+        <h3 className="text-white">Blood checking History</h3>
        </div>
       
     </div>
