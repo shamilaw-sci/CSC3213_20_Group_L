@@ -25,6 +25,7 @@ function page() {
                                     <h2 className="text-center text-2xl font-bold text-gray-900">
                                       Health Centre <br /> University Of Peradeniya
                                     </h2>
+                                    
                           
                                     <p className="mt-3 text-center text-gray-600">Login</p>
                           

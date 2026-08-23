@@ -28,7 +28,7 @@ export default function Page() {
             Health Centre <br /> University Of Peradeniya
           </h2>
 
-          <p className="mt-3 text-center text-gray-600">Register</p>
+          <p className="mt-3 text-center text-gray-600">Student Register</p>
 
           <div className="mt-6 rounded-3xl bg-white p-4 sm:p-6">
             
@@ -78,7 +78,7 @@ export default function Page() {
                 type="submit"
                 className="mt-3 w-full rounded-xl bg-blue-600 py-3 font-semibold text-white shadow-md transition-all duration-300 hover:bg-blue-700 hover:shadow-lg active:scale-[0.98]"
               >
-                Continue
+                Add Student
               </button>
             </form>
           </div>
